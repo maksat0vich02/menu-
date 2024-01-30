@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+header {
+  background: #fff;
+}
+.header a {
+  margin: 0 20px;
+  color: #000;
+  font-size: 24px;
+  font-weight: 500;
+  text-decoration: none;
+  font-family: sans-serif;
+}
+header .active {
+  color: red;
+}
